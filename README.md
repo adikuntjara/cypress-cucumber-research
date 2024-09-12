@@ -15,6 +15,6 @@
 
 ```sh
 $ git clone "url this project"
-$ cd cypress-research
+$ cd cypress-cucumber-research
 $ npm install
 ```
